@@ -39,5 +39,4 @@ Software developer working across the **Python** and **JavaScript/TypeScript** e
 ### 📫 Connect with me
 
 - LinkedIn: [linkedin.com/in/sandhya-r-b475b8291](https://www.linkedin.com/in/sandhya-r-b475b8291)
-- - Portfolio: [sandhya-r-portfolio.netlify.app](https://sandhya-r-portfolio.netlify.app/)
-  - 
+- Portfolio: [sandhya-r-portfolio.netlify.app](https://sandhya-r-portfolio.netlify.app/)
