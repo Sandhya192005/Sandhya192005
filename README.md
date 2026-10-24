@@ -162,8 +162,7 @@
 <p>
   <a href="https://github.com/Sandhya192005"><img src="https://img.shields.io/badge/GitHub-Sandhya192005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sandhya192005"><img src="https://img.shields.io/badge/LinkedIn-sandhya192005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- TODO: replace with mailto:your@email.com -->
-  <a href="#"><img src="https://img.shields.io/badge/Email-Add_your_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (placeholder)" /></a>
+  <a href="mailto:sandhyasubha192005@gmail.com"><img src="https://img.shields.io/badge/Email-sandhyasubha192005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
