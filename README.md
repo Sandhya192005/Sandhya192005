@@ -1,42 +1,174 @@
-### Hi, I'm Sandhya 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="Sandhya R. — Better Code, Bigger Dreams" width="100%" />
+</p>
 
-Software developer working across the **Python** and **JavaScript/TypeScript** ecosystems — I build full-stack web apps, from React front ends to Node/Python back ends.
+<h1 align="center">Hi, I'm Sandhya R. 👋</h1>
+
+<p align="center">
+  <b>Aspiring Software Developer | Backend &amp; Full-Stack Development</b>
+</p>
+
+<p align="center">
+  I'm a software developer interested in building practical applications, developing reliable backend APIs,
+  and creating user-friendly full-stack solutions. I enjoy problem-solving, exploring technologies,
+  and improving my development skills through real-world projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sandhya192005"><img src="https://img.shields.io/badge/GitHub-Sandhya192005-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Entry--Level_Roles-1f6feb?style=flat" alt="Open to internships and entry-level roles" /></a>
+</p>
 
 ---
 
-### 🔧 Tech Stack
+## 🧑‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- 🔧 Interested in **backend and full-stack development**
+- 🌐 Building **REST APIs** and practical software applications
+- 🗄️ Working with **databases** and application logic: schemas, migrations, authentication
+- 🧩 Continuously improving my **programming and problem-solving** skills
+- 🎨 Exploring **frontend technologies** to build complete, end-to-end applications
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description |
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="40" alt="Python, JavaScript, TypeScript, HTML5, CSS3" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" height="40" alt="FastAPI, Node.js, Express.js" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" height="40" alt="PostgreSQL, MongoDB, SQLite" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Git, GitHub, VS Code" /></td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>🏠 AI Home Layout</h3>
+      <p>
+        Turns home-building requirements (plot size, facing, rooms, parking, floors, budget and Vastu preference) into a
+        fully dimensioned floor plan. There are no templates: every plan is generated from the input.
+      </p>
+      <ul>
+        <li>2D SVG viewer and a Three.js 3D walkthrough built from the same plan data</li>
+        <li>Manual layout editor with undo/redo, cost estimate, bill of quantities and PNG/PDF export</li>
+        <li>JWT auth with rotating refresh tokens, versioned plan history and shareable read-only links</li>
+        <li>PostgreSQL with SQLAlchemy + Alembic migrations, covered by a pytest suite</li>
+      </ul>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,threejs&theme=dark" height="32" alt="Python, FastAPI, PostgreSQL, React, TypeScript, Three.js" />
+      </p>
+      <p>
+        <a href="https://github.com/Sandhya192005/home-layout"><b>📂 Repository</b></a> &nbsp;·&nbsp; <i>Demo: not deployed yet</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🥗 AI Food Agent</h3>
+      <p>
+        A personal nutrition assistant. Upload a photo of a meal and AI vision estimates its calories, protein and fat.
+        Recommendations are personalized to your profile, diet preference, health conditions and budget.
+      </p>
+      <ul>
+        <li>JWT authentication with automatic BMI / BMR / daily-calorie and water-goal calculation</li>
+        <li>REST API for meal, water-intake and office-menu logging</li>
+        <li>PostgreSQL / SQLite via SQLAlchemy + Alembic, tested with pytest, Dockerized</li>
+      </ul>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,docker&theme=dark" height="32" alt="Python, FastAPI, PostgreSQL, React, TypeScript, Docker" />
+      </p>
+      <p>
+        <a href="https://github.com/Sandhya192005/Food-Agent"><b>📂 Repository</b></a> &nbsp;·&nbsp; <i>Demo: not deployed yet</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>💚 Health Agent <sub><i>(team project)</i></sub></h3>
+      <p>
+        An employee wellbeing system with three parts: a background desktop agent, a FastAPI server, and a React dashboard
+        that shows AI-written wellbeing reminders.
+      </p>
+      <ul>
+        <li>Offline-first desktop agent that buffers activity locally and syncs without losing or duplicating events</li>
+        <li>LLM-generated break / idle / distraction reminders, spoken aloud by an on-screen assistant</li>
+        <li>Role-based dashboard: admins see the organization, employees see only their own day</li>
+      </ul>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,react,ts&theme=dark" height="32" alt="Python, FastAPI, PostgreSQL, SQLite, React, TypeScript" />
+      </p>
+      <p>
+        <a href="https://github.com/Suba-kumar09/health-agent"><b>📂 Repository</b></a> &nbsp;·&nbsp; <i>Demo: not deployed yet</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience &amp; Practical Work
+
+- **Backend development with Python &amp; FastAPI:** built layered REST APIs (routers → services → repositories) with request validation and JWT authentication
+- **PostgreSQL database integration:** designed schemas with SQLAlchemy 2.0 and managed changes through Alembic migrations
+- **REST API development:** auth, CRUD and domain endpoints, documented and tested through Swagger / OpenAPI and pytest
+- **Team collaboration:** contributed to a team project (Health Agent) using Git feature branches and pull-request workflows on GitHub
+- **Exploring data tools:** learning SQL, PySpark and Databricks alongside application development
+
+---
+
+## 🎯 What I'm Focusing On
+
+| | |
 |---|---|
-| [**Budget Tracker**](https://github.com/Sandhya192005/budget-tracker) | A TypeScript app for tracking income, expenses, and personal budgets. |
-| [**Book Swapper**](https://github.com/Sandhya192005/book-swapper) | A platform for users to list and exchange books with each other. |
-| [**Donor List Management**](https://github.com/Sandhya192005/donor-list-management) | A system for managing and tracking donor records. |
-| [**Product Review System**](https://github.com/Sandhya192005/product-review-system) | An app for submitting and browsing product reviews. |
-
-*(Also on my profile: [Portfolio site](https://github.com/Sandhya192005/portfolio) and a [CGPA Calculator](https://github.com/Sandhya192005/CGPA-calculator).)*
-
----
-
-### 📊 GitHub Stats
-
-![Sandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandhya192005&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya192005&layout=compact)
+| 🔌 | Backend engineering and REST APIs |
+| 🏗️ | Database integration and application architecture |
+| ⚛️ | React and TypeScript for frontend development |
+| ✨ | Writing clean, maintainable code |
+| 🧠 | Improving problem-solving and software development skills |
 
 ---
 
-### 📫 Connect with me
+## 📊 GitHub Activity
 
-- LinkedIn: [linkedin.com/in/sandhya-r-b475b8291](https://www.linkedin.com/in/sandhya-r-b475b8291)
-- Portfolio: [sandhya-r-portfolio.netlify.app](https://sandhya-r-portfolio.netlify.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya192005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya192005&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Most used languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/Sandhya192005"><img src="https://img.shields.io/badge/GitHub-Sandhya192005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- TODO: replace with your LinkedIn URL -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add_your_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (placeholder)" /></a>
+  <!-- TODO: replace with mailto:your@email.com -->
+  <a href="#"><img src="https://img.shields.io/badge/Email-Add_your_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (placeholder)" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="Keep building, keep growing." width="100%" />
+</p>
