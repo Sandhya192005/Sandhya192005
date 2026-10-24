@@ -134,7 +134,7 @@
 - Explored REST API development and database integration.
 - Gained exposure to **Databricks** and data-related workflows.
 
-### Web Development Intern | Altruisty
+### MERN Stack Developer | Altruisty
 - Gained practical experience in web application development.
 - Worked with the **MERN stack**.
 - Explored frontend and backend integration in web applications.
