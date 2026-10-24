@@ -128,11 +128,16 @@
 
 ## 💼 Experience &amp; Practical Work
 
-- **Backend development with Python &amp; FastAPI:** built layered REST APIs (routers → services → repositories) with request validation and JWT authentication
-- **PostgreSQL database integration:** designed schemas with SQLAlchemy 2.0 and managed changes through Alembic migrations
-- **REST API development:** auth, CRUD and domain endpoints, documented and tested through Swagger / OpenAPI and pytest
-- **Team collaboration:** contributed to a team project (Health Agent) using Git feature branches and pull-request workflows on GitHub
-- **Exploring data tools:** learning SQL, PySpark and Databricks alongside application development
+### Backend Development Intern | Finstein Advizory
+- Worked on health and food-related application projects.
+- Gained hands-on experience with **Python, FastAPI, and PostgreSQL**.
+- Explored REST API development and database integration.
+- Gained exposure to **Databricks** and data-related workflows.
+
+### Web Development Intern | Altruisty
+- Gained practical experience in web application development.
+- Worked with the **MERN stack**.
+- Explored frontend and backend integration in web applications.
 
 ---
 
