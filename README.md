@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td width="170"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" height="40" alt="Python, JavaScript, TypeScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" height="40" alt="Python, Java, JavaScript, TypeScript" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
