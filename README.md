@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td width="170"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="40" alt="Python, JavaScript, TypeScript, HTML5, CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" height="40" alt="Python, JavaScript, TypeScript" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" height="40" alt="HTML5, CSS3, React" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <h3>🏠 AI Home Layout</h3>
+      <h3>🏠 Home Layout</h3>
       <p>
         Turns home-building requirements (plot size, facing, rooms, parking, floors, budget and Vastu preference) into a
         fully dimensioned floor plan. There are no templates: every plan is generated from the input.
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td>
-      <h3>💚 Health Agent <sub><i>(team project)</i></sub></h3>
+      <h3>💚 AI Health Agent <sub><i>(team project)</i></sub></h3>
       <p>
         An employee wellbeing system with three parts: a background desktop agent, a FastAPI server, and a React dashboard
         that shows AI-written wellbeing reminders.
