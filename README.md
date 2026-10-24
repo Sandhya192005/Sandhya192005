@@ -128,7 +128,7 @@
 
 ## 💼 Experience &amp; Practical Work
 
-### Backend Development Intern | Finstein Advizory
+### Full Stack Developer Intern | Finstein Advizory
 - Worked on health and food-related application projects.
 - Gained hands-on experience with **Python, FastAPI, and PostgreSQL**.
 - Explored REST API development and database integration.
