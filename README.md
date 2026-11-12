@@ -5,18 +5,19 @@
 <h1 align="center">Hi, I'm Sandhya R. 👋</h1>
 
 <p align="center">
-  <b>Aspiring Software Developer | Backend &amp; Full-Stack Development</b>
+  <b>Backend &amp; AI Developer | Python · FastAPI · Django · LLM Applications</b>
 </p>
 
 <p align="center">
-  I'm a software developer interested in building practical applications, developing reliable backend APIs,
-  and creating user-friendly full-stack solutions. I enjoy problem-solving, exploring technologies,
-  and improving my development skills through real-world projects.
+  Software developer specializing in backend systems and AI-powered applications. I design and build REST APIs,
+  data-driven services and full-stack products — from database schema to deployment — with a focus on clean
+  architecture, reliability and thorough testing. Recent work spans healthcare booking, AI nutrition analysis,
+  retrieval-augmented generation (RAG) and workflow automation.
 </p>
 
 <p align="center">
   <a href="https://github.com/Sandhya192005"><img src="https://img.shields.io/badge/GitHub-Sandhya192005-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Open_to-Internships_%26_Entry--Level_Roles-1f6feb?style=flat" alt="Open to internships and entry-level roles" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Open_to-Entry--Level_Roles-1f6feb?style=flat" alt="Open to entry-level roles" /></a>
 </p>
 
 ---
