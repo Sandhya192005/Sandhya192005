@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,vscode&theme=dark" height="40" alt="AWS, Docker, Postman, Git, GitHub, VS Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,vscode&theme=dark" height="40" alt="AWS, Docker, Postman, Git, GitHub, VS Code" /> <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28" alt="Swagger UI" /></td>
   </tr>
 </table>
 
