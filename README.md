@@ -206,7 +206,7 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/main/profile-3d-contrib/profile-navy-green-red-animate.svg" alt="Animated 3D contribution graph" width="100%" />
+  <img src="./assets/activity-terminal.svg" alt="Recent GitHub activity" width="100%" />
 </p>
 
 <p align="center">
