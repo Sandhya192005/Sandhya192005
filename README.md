@@ -206,6 +206,14 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
