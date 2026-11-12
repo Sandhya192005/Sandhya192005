@@ -1,0 +1,14 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-navy-rainbow-animate.svg",
+  "backgroundColor": "#0b1730",
+  "foregroundColor": "#e2e8f0",
+  "strongColor": "#facc15",
+  "weakColor": "#94a3b8",
+  "radarColor": "#facc15",
+  "growingAnimation": true,
+  "saturation": "60%",
+  "contribLightness": ["22%", "32%", "40%", "48%", "58%"],
+  "duration": "8s",
+  "hueRatio": -7
+}
