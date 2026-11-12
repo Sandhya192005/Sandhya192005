@@ -63,22 +63,23 @@
 <table>
   <tr>
     <td>
-      <h3>🏠 Home Layout</h3>
+      <h3>🏥 MediConnect</h3>
       <p>
-        Turns home-building requirements (plot size, facing, rooms, parking, floors, budget and Vastu preference) into a
-        fully dimensioned floor plan. There are no templates: every plan is generated from the input.
+        A hospital appointment booking platform. Patients find doctors and nearby hospitals, book slots and get reminders,
+        with an AI assistant that helps search and suggests bookings — but never books on its own.
       </p>
       <ul>
-        <li>2D SVG viewer and a Three.js 3D walkthrough built from the same plan data</li>
-        <li>Manual layout editor with undo/redo, cost estimate, bill of quantities and PNG/PDF export</li>
-        <li>JWT auth with rotating refresh tokens, versioned plan history and shareable read-only links</li>
-        <li>PostgreSQL with SQLAlchemy + Alembic migrations, covered by a pytest suite</li>
+        <li>Django REST API + Next.js frontend, fully Dockerized with PostgreSQL/PostGIS, Redis and Elasticsearch</li>
+        <li>Fuzzy doctor search with synonyms and autocomplete; nearby-hospital map using PostGIS and OpenStreetMap</li>
+        <li>Celery jobs for email reminders, live notifications over WebSockets (Django Channels)</li>
+        <li>OpenAI assistant with tool calling and safety rules; Playwright scraper for hospital websites</li>
+        <li>Tested with pytest and Playwright end-to-end tests</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,ts,threejs&theme=dark" height="32" alt="Python, FastAPI, PostgreSQL, React, TypeScript, Three.js" />
+        <img src="https://skillicons.dev/icons?i=python,django,nextjs,postgres,redis,elasticsearch,docker&theme=dark" height="32" alt="Python, Django, Next.js, PostgreSQL, Redis, Elasticsearch, Docker" />
       </p>
       <p>
-        <a href="https://github.com/Sandhya192005/home-layout"><b>📂 Repository</b></a> &nbsp;·&nbsp; <i>Demo: not deployed yet</i>
+        <a href="https://github.com/Sandhya192005/MediConnect"><b>📂 Repository</b></a> &nbsp;·&nbsp; <i>Demo: not deployed yet</i>
       </p>
     </td>
   </tr>
@@ -123,6 +124,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🗂️ Other Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🏠 Home Layout](https://github.com/Sandhya192005/home-layout) | Generates dimensioned 2D/3D floor plans from plot size, rooms, budget and Vastu, with cost estimates | FastAPI · PostgreSQL · React · Three.js |
+| [📄 RAG-LangChain](https://github.com/Sandhya192005/RAG-LangChain) | "Chat with my resume" — a RAG pipeline built step by step: load, chunk, embed, retrieve, generate | Python · LangChain · OpenAI · pgvector |
+| [📦 Cargo Email Automation](https://github.com/Sandhya192005/Cargo-Email-Automation) | Reads shipment emails from Outlook, uses AI to classify them and extract details, logs them to Excel and sends customer reports after human approval | n8n · Claude AI · Outlook · Excel |
+| [📚 Book Swapper](https://github.com/Sandhya192005/book-swapper) | List, discover and exchange books (sell, swap, borrow or donate) with requests, ratings and location info | React · TypeScript · Tailwind |
+| [💰 Budget Tracker](https://github.com/Sandhya192005/budget-tracker) | Personal finance dashboard with transactions, budgets and spending charts | React · TypeScript · Tailwind |
+| [🤖 Local LLM Chat](https://github.com/Sandhya192005/HuggingFace) | Terminal chatbot running Qwen2.5-3B fully on CPU — no GPU or API key | Python · llama.cpp · Hugging Face |
+| [⭐ Product Review System](https://github.com/Sandhya192005/product-review-system) | Login-gated app to add products with star ratings and reviews, with live search | HTML · CSS · JavaScript |
+| [🩸 Donor List Management](https://github.com/Sandhya192005/donor-list-management) | Searchable donor list with sign-up/login and add, edit and delete records | HTML · CSS · JavaScript |
+| [🎓 CGPA Calculator](https://github.com/Sandhya192005/CGPA-calculator) | Calculates semester GPA and overall credit-weighted CGPA for an 8-semester curriculum | HTML · CSS · JavaScript |
 
 ---
 
