@@ -40,19 +40,28 @@
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" height="40" alt="FastAPI, Node.js, Express.js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express&theme=dark" height="40" alt="FastAPI, Django, Node.js, Express.js" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" height="40" alt="HTML5, CSS3, React" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" height="40" alt="HTML5, CSS3, React, Next.js, Tailwind CSS" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" height="40" alt="PostgreSQL, MongoDB, SQLite" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,elasticsearch&theme=dark" height="40" alt="PostgreSQL, MongoDB, SQLite, Redis, Elasticsearch" /></td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="pgvector" />
+    </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Git, GitHub, VS Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" height="40" alt="Docker, Git, GitHub, VS Code" /></td>
   </tr>
 </table>
 
