@@ -175,12 +175,6 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 | ✅ **Testing & code quality** | Unit, integration and end-to-end testing, with maintainable, well-documented code |
 | 🚀 **Shipping complete products** | Taking projects from idea to deployed demo, with clear documentation and a polished user experience |
 
----|---|
-| 🔌 | Backend engineering and REST APIs |
-| 🏗️ | Database integration and application architecture |
-| ⚛️ | React and TypeScript for frontend development |
-| ✨ | Writing clean, maintainable code |
-| 🧠 | Improving problem-solving and software development skills |
 
 ---
 
