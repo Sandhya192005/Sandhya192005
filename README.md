@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sandhya R. — Better Code, Bigger Dreams" width="100%" />
+  <img src="./assets/banner.svg" alt="Sandhya R. — Backend &amp; AI Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sandhya R. 👋</h1>
