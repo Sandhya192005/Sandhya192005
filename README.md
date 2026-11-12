@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Sandhya192005"><img src="https://img.shields.io/badge/GitHub-Sandhya192005-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://sandhya192005.github.io/Sandhya-R-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Open_to-Entry--Level_Roles-1f6feb?style=flat" alt="Open to entry-level roles" /></a>
 </p>
 
@@ -149,22 +150,6 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 
 ---
 
-## 🗂️ Other Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🏠 Home Layout](https://github.com/Sandhya192005/home-layout) | Generates dimensioned 2D/3D floor plans from plot size, rooms, budget and Vastu, with cost estimates | FastAPI · PostgreSQL · React · Three.js |
-| [📄 RAG-LangChain](https://github.com/Sandhya192005/RAG-LangChain) | "Chat with my resume" — a RAG pipeline built step by step: load, chunk, embed, retrieve, generate | Python · LangChain · OpenAI · pgvector |
-| [📦 Cargo Email Automation](https://github.com/Sandhya192005/Cargo-Email-Automation) | Reads shipment emails from Outlook, uses AI to classify them and extract details, logs them to Excel and sends customer reports after human approval | n8n · Claude AI · Outlook · Excel |
-| [📚 Book Swapper](https://github.com/Sandhya192005/book-swapper) | List, discover and exchange books (sell, swap, borrow or donate) with requests, ratings and location info | React · TypeScript · Tailwind |
-| [💰 Budget Tracker](https://github.com/Sandhya192005/budget-tracker) | Personal finance dashboard with transactions, budgets and spending charts | React · TypeScript · Tailwind |
-| [🤖 Local LLM Chat](https://github.com/Sandhya192005/HuggingFace) | Terminal chatbot running Qwen2.5-3B fully on CPU — no GPU or API key | Python · llama.cpp · Hugging Face |
-| [⭐ Product Review System](https://github.com/Sandhya192005/product-review-system) | Login-gated app to add products with star ratings and reviews, with live search | HTML · CSS · JavaScript |
-| [🩸 Donor List Management](https://github.com/Sandhya192005/donor-list-management) | Searchable donor list with sign-up/login and add, edit and delete records | HTML · CSS · JavaScript |
-| [🎓 CGPA Calculator](https://github.com/Sandhya192005/CGPA-calculator) | Calculates semester GPA and overall credit-weighted CGPA for an 8-semester curriculum | HTML · CSS · JavaScript |
-
----
-
 ## 💼 Experience &amp; Practical Work
 
 ### Full Stack Developer Intern | Finstein Advizory
@@ -218,6 +203,7 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 ## 📫 Connect With Me
 
 <p>
+  <a href="https://sandhya192005.github.io/Sandhya-R-portfolio/"><img src="https://img.shields.io/badge/Portfolio-sandhya192005.github.io-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Sandhya192005"><img src="https://img.shields.io/badge/GitHub-Sandhya192005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/sandhya192005"><img src="https://img.shields.io/badge/LinkedIn-sandhya192005-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sandhyasubha192005@gmail.com"><img src="https://img.shields.io/badge/Email-sandhyasubha192005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
