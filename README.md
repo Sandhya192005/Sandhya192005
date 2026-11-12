@@ -213,14 +213,6 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sandhya192005&label=Profile%20views&color=555555&style=flat" alt="Profile views" />
 </p>
 
