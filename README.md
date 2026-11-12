@@ -204,6 +204,14 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
   <img src="https://streak-stats.demolab.com/?user=Sandhya192005&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/github-snake-dark.svg" alt="Animated contribution graph" width="100%" />
+  </picture>
+</p>
+
 ---
 
 ## 📫 Connect With Me
