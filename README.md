@@ -173,7 +173,7 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 | 🏗️ **Scalable backend architecture** | Designing clean, well-tested REST APIs with background jobs, caching, search and real-time updates |
 | ☁️ **Cloud & DevOps** | Containerized deployments with Docker, AWS services, and CI/CD pipelines with GitHub Actions |
 | ✅ **Testing & code quality** | Unit, integration and end-to-end testing, with maintainable, well-documented code |
-| 🚀 **Shipping complete products** | Taking projects from idea to deployed demo, with clear documentation and a polished user experience |
+| ⚙️ **Automation workflows** | Automating business processes with n8n — reading emails, AI classification and data extraction, Excel logging and human-approved reports |
 
 
 ---
