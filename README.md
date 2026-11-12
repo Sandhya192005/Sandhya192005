@@ -201,15 +201,19 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sandhya192005&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sandhya192005&hide_border=false&border_radius=8&background=0B1F3A&border=FACC15&stroke=334155&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=FACC15&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=E2E8F0" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/github-snake-dark.svg" alt="Animated contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Sandhya192005/Sandhya192005/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandhya192005&label=Profile%20views&color=555555&style=flat" alt="Profile views" />
 </p>
 
 ---
