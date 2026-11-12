@@ -57,11 +57,13 @@
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="pgvector" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="28" alt="Ollama" />
+      <img src="https://img.shields.io/badge/Embeddings-0A7E8C?style=for-the-badge" height="28" alt="Embeddings" />
     </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" height="40" alt="Docker, Git, GitHub, VS Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,vscode&theme=dark" height="40" alt="AWS, Docker, Postman, Git, GitHub, VS Code" /></td>
   </tr>
 </table>
 
