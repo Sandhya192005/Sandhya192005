@@ -23,11 +23,21 @@
 
 ## 🧑‍💻 About Me
 
-- 🔧 Interested in **backend and full-stack development**
-- 🌐 Building **REST APIs** and practical software applications
-- 🗄️ Working with **databases** and application logic: schemas, migrations, authentication
-- 🧩 Continuously improving my **programming and problem-solving** skills
-- 🎨 Exploring **frontend technologies** to build complete, end-to-end applications
+I'm a **backend-focused full-stack developer** who builds complete, production-style applications — from database
+design and REST APIs to the frontend and deployment. Lately my focus has been on **applying AI and LLMs to real
+problems**: AI assistants with tool calling, vision-based analysis, and retrieval-augmented generation (RAG).
+
+- 🏗️ **Backend & APIs** — Design REST APIs with **FastAPI** and **Django REST Framework**, with JWT authentication,
+  role-based access, rate limiting and versioned schema migrations (Alembic, Django migrations)
+- 🤖 **AI & LLM applications** — Built an OpenAI assistant that calls the app's own tools, a food-photo nutrition
+  analyzer using vision models, a RAG pipeline with embeddings and **pgvector**, and local LLMs running on CPU
+- 🗄️ **Data & infrastructure** — Work with **PostgreSQL / PostGIS**, **Redis**, **Elasticsearch** and **Celery**
+  background jobs; containerize full stacks with **Docker Compose**; store data on **AWS** (S3, RDS)
+- ⚛️ **Frontend** — Build responsive interfaces with **React, Next.js, TypeScript** and Tailwind CSS, including
+  maps, live WebSocket notifications and 3D views with Three.js
+- ✅ **Quality & reliability** — Write tests with **pytest** and **Playwright** end-to-end, set up CI with GitHub
+  Actions, and design offline-first, idempotent data sync
+- ⚙️ **Automation** — Automate business workflows with **n8n**, combining email, Excel and AI classification
 
 ---
 
