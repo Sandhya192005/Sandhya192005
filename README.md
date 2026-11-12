@@ -179,10 +179,17 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 
 ---
 
-## 🎯 What I'm Focusing On
+## 🎯 Current Focus
 
-| | |
+| Area | What I'm working on |
 |---|---|
+| 🤖 **Applied AI & LLM systems** | Building reliable LLM features — RAG with embeddings and vector search, tool-calling assistants, and guardrails for safe, grounded answers |
+| 🏗️ **Scalable backend architecture** | Designing clean, well-tested REST APIs with background jobs, caching, search and real-time updates |
+| ☁️ **Cloud & DevOps** | Containerized deployments with Docker, AWS services, and CI/CD pipelines with GitHub Actions |
+| ✅ **Testing & code quality** | Unit, integration and end-to-end testing, with maintainable, well-documented code |
+| 🚀 **Shipping complete products** | Taking projects from idea to deployed demo, with clear documentation and a polished user experience |
+
+---|---|
 | 🔌 | Backend engineering and REST APIs |
 | 🏗️ | Database integration and application architecture |
 | ⚛️ | React and TypeScript for frontend development |
