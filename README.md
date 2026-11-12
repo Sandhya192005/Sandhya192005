@@ -201,8 +201,7 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya192005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya192005&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com/?user=Sandhya192005&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
