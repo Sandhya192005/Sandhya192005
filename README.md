@@ -75,7 +75,7 @@ problems**: AI assistants with tool calling, vision-based analysis, and retrieva
   </tr>
   <tr>
     <td><b>Tools &amp; Platforms</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,vscode&theme=dark" height="40" alt="AWS, Docker, Postman, Git, GitHub, VS Code" /> <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28" alt="Swagger UI" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28" alt="Canva" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,postman,git,github,vscode&theme=dark" height="40" alt="AWS, Docker, Postman, Git, GitHub, VS Code" /> <img src="./assets/antigravity.svg" height="40" alt="Antigravity" /> <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="28" alt="Swagger UI" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="28" alt="Canva" /></td>
   </tr>
 </table>
 
