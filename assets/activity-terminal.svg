@@ -19,7 +19,7 @@
 <circle cx="70" cy="22.5" r="6" fill="#28c840"/>
 <text x="600.0" y="27" class="t" fill="#64748b" text-anchor="middle">sandhya@github: ~/activity</text>
 <text x="36" y="96" class="m"><tspan fill="#22c55e">➜</tspan><tspan fill="#60a5fa"> ~ </tspan></text><text x="74.4" y="96" class="m" fill="#e2e8f0" clip-path="url(#c0)">git log --author=&quot;sandhya&quot; --activity --recent</text>
-<g clip-path="url(#c1)"><text x="44" y="143.6" class="m" fill="#60a5fa">↑</text><text x="76" y="143.6" class="m" fill="#e2e8f0">pushed 2 updates to Sandhya-R-portfolio</text><text x="1164" y="143.6" class="m" fill="#64748b" text-anchor="end">13 Nov</text></g>
+<g clip-path="url(#c1)"><text x="44" y="143.6" class="m" fill="#60a5fa">↑</text><text x="76" y="143.6" class="m" fill="#e2e8f0">pushed 3 updates to Sandhya-R-portfolio</text><text x="1164" y="143.6" class="m" fill="#64748b" text-anchor="end">13 Nov</text></g>
 <g clip-path="url(#c2)"><text x="44" y="177.6" class="m" fill="#60a5fa">↑</text><text x="76" y="177.6" class="m" fill="#e2e8f0">pushed 1 update to MediConnect</text><text x="1164" y="177.6" class="m" fill="#64748b" text-anchor="end">12 Nov</text></g>
 <g clip-path="url(#c3)"><text x="44" y="211.6" class="m" fill="#60a5fa">↑</text><text x="76" y="211.6" class="m" fill="#e2e8f0">pushed 1 update to HuggingFace</text><text x="1164" y="211.6" class="m" fill="#64748b" text-anchor="end">12 Nov</text></g>
 <g clip-path="url(#c4)"><text x="44" y="245.60000000000002" class="m" fill="#60a5fa">↑</text><text x="76" y="245.60000000000002" class="m" fill="#e2e8f0">pushed 1 update to budget-tracker</text><text x="1164" y="245.60000000000002" class="m" fill="#64748b" text-anchor="end">12 Nov</text></g>
